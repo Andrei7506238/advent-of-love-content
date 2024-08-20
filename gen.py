@@ -1,7 +1,7 @@
 import datetime
 
-start_date = datetime.date(2024, 8, 5)
-end_date = datetime.date(2024, 8, 10)
+start_date = datetime.date(2024, 8, 1)
+end_date = datetime.date(2024, 8, 31)
 
 for i in range((end_date - start_date).days + 1):
     day = start_date + datetime.timedelta(days=i)
