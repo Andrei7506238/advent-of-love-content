@@ -1,3 +1,157 @@
 [
-
+  {
+    "date":"2025-08-01",
+    "content": "Astăzi e o nouă zi în care să te iubesc și mai mult. Gândul la tine îmi umple sufletul de lumină, al meu dulce puisor!",
+    "image":"data:image/jpeg;base64,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"
+  },
+  {
+    "date":"2025-08-02",
+    "content":"Tu ești motivul pentru care zâmbesc în fiecare zi. Îți simt dragostea chiar și de la distanță și mi-e dor de tine mereu.",
+    "image":"https://img.freepik.com/free-photo/happy-couple-kissing-heart_23-2147736077.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "date":"2025-08-03",
+    "content":"Iti multumesc pentru cea mai frumoasa vacanta! Langa tine totul e perfect. Vreau sa te am mereu langa mine.",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhodZBbnmQAI19UNYtRylk8YLcOFnWRmbRw&s"
+  },
+  {
+    "date":"2025-08-04",
+    "content":"Tu ești steaua mea călăuzitoare, visul meu împlinit și dragostea vieții mele. Fiecare clipă fără tine este grea, fiecare zi fara pupicii tai este rece. Tu faci caldura in inimioara mea!",
+    "image":"https://cdn.wallpapersafari.com/64/23/7wBFrC9.jpg"
+  },
+  {
+    "date":"2025-08-05",
+    "content":"Te iubesc pentru tot ce ești: bunătatea ta, frumusețea ta, zâmbetul tău. Totul la tine mă fascinează si ma face sa te iubesc din ce in ce mai mult!!!",
+    "image":"https://thumbs.dreamstime.com/b/two-red-hearts-beach-love-symbolizing-valentine-s-day-romantic-couple-calm-ocean-background-36661504.jpg"
+  },
+  {
+    "date":"2025-08-06",
+    "content":"Astazi, de ziua mea, iti multumesc ca esti in viata mea. Tu esti cel mai perfect si cel mai minunat cadou pe care l-am primit vreodata. Te iubesc cel mai mult!",
+    "image":"https://freedesignfile.com/upload/2021/02/Our-love-cartoon-illustration-vector.jpg"
+  },
+  {
+    "date":"2025-08-07",
+    "content":"Îmi imaginez viitorul nostru împreună și zâmbesc, pentru că știu că am alături cea mai minunată iubita!",
+    "image":"https://burst.shopifycdn.com/photos/pages-of-a-book-curled-inwards-to-create-a-heart.jpg?width=1000&format=pjpg&exif=0&iptc=0"
+  },
+  {
+    "date":"2025-08-08",
+    "content":"Distanța nu face decât să-mi amintească cât de norocos sunt să te am. Te iubesc cu tot sufletul meu, pui mic si frumos.",
+    "image":"https://t3.ftcdn.net/jpg/03/13/56/08/360_F_313560871_b75XP5UEoNv7UwiBKo5mjehL3jrILjUn.jpg"
+  },
+  {
+    "date":"2025-08-09",
+    "content":"Când îți aud vocea, parcă totul se liniștește în mine. Tu ești acasă pentru inima mea.",
+    "image":"https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/romantic-love-olha-darchuk.jpg"
+  },
+  {
+    "date":"2025-08-10",
+    "content":"Mi-e dor să-ți privesc ochii, să-ți simt mângâierea, să fim doar noi doi. Noi doi în lumea noastră.",
+    "image":"https://wallpapers.com/images/hd/white-love-hearts-ribbon-my60nrq6msjzxq9p.jpg"
+  },
+  {
+    "date":"2025-08-11",
+    "content":"Ești și vei fi mereu aleasa inimii mele. Îți mulțumesc că mă iubești și că exiști. Iti multumesc enorm, iubirica mea!",
+    "image":"https://www.tallengestore.com/cdn/shop/products/42_0_b418c163-725c-4367-ba5e-29f9ed01909a.jpg?v=1480502733"
+  },
+  {
+    "date":"2025-08-12",
+    "content":"Astăzi e o nouă zi în care să te iubesc și mai mult. Gândul la tine îmi umple sufletul de lumină. Tu esti totul pentru mine!",
+    "image":"https://t3.ftcdn.net/jpg/07/06/87/92/360_F_706879239_FsfZgWSvLuzxU6UuB54zusieCfX048uj.jpg"
+  },
+  {
+    "date":"2025-08-13",
+    "content":"Tu ești motivul pentru care zâmbesc în fiecare zi. Îți simt dragostea chiar și de la distanță și mi-e dor de tine mereu.",
+    "image":"https://plus.unsplash.com/premium_photo-1706520337246-f7c0490f71d7?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bG92ZSUyMGhlYXJ0c3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "date":"2025-08-14",
+    "content":"Mi-aș dori să fiu lângă tine chiar acum, să-ți spun cât de mult însemni pentru mine și cât de tare îmi bate inima doar pentru tine.",
+    "image":"https://image.spreadshirtmedia.net/image-server/v1/products/T1459A839PA4459PT28D317882765W10000H8587/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/love-sticker.jpg"
+  },
+  {
+    "date":"2025-08-15",
+    "content":"Tu ești steaua mea călăuzitoare, visul meu împlinit și dragostea vieții mele. Te iubesc cel mai mult iubirea mea.",
+    "image":"https://static.vecteezy.com/system/resources/thumbnails/027/381/049/small/romantic-couple-silhouetted-against-blurred-background-love-and-valentine-s-concept-photo.jpg"
+  },
+  {
+    "date":"2025-08-16",
+    "content":"ε(´｡•᎑•`)っ 💕\nToata dragostea mea este doar pentru tine iubito!",
+    "image":"https://static.vecteezy.com/system/resources/thumbnails/021/779/154/small_2x/valentines-red-hearts-on-shiny-glitter-background-with-defocused-abstract-lights-photo.jpg"
+  },
+  {
+    "date":"2025-08-17",
+    "content":"Tu ești tot ce contează iubito! Esti fericirea mea, motivul pentru care mă trezesc zâmbind în fiecare dimineață.",
+    "image":"https://static.vecteezy.com/system/resources/thumbnails/038/806/445/small/ai-generated-romantic-backdrop-for-expressing-love-and-emotions-free-photo.jpeg"
+  },
+  {
+    "date":"2025-08-18",
+    "content":"Abia astept sa fiu mereu langa tine si sa avem o viata plina de iubire. Locul meu e langa tine!",
+    "image":"https://t4.ftcdn.net/jpg/09/03/07/15/360_F_903071563_ReGOP4QqNuC6jnEhTqMDhm8TLyJBMuVK.jpg"
+  },
+   {
+    "date": "2025-08-19",
+    "content": "Ești minunea care mi-a transformat viața într-o poveste frumoasă. Cu tine, totul are sens.",
+    "image": "https://wallpapersok.com/images/hd/she-may-be-small-in-stature-but-her-heart-is-bigger-than-the-world-i7nudj1jkyk4136v.jpg"
+  },
+  {
+    "date": "2025-08-20",
+    "content": "Mi-aș dori să pot opri timpul când suntem împreună. Clipele cu tine sunt cele mai prețioase si cele mai minunate.",
+    "image": "https://wallpapers.com/images/hd/3d-love-heart-wings-tjvvxbc3esoxgnwg.jpg"
+  },
+  {
+    "date": "2025-08-21",
+    "content": "Te iubesc nu doar pentru ceea ce ești, ci pentru felul în care mă simt când sunt cu tine.",
+    "image": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2021-02/shutterstock_170935235.jpg?itok=a--9CLDx"
+  },
+  {
+    "date": "2025-08-22",
+    "content": "La multi ani minunati iubirea mea! Fiecare zi alături de tine este un cadou prețios. Sa ai parte de un an plin de iubire si bucurie! Eu voi fi mereu alaturi de tine, a mea dulce printesa!",
+    "image": "https://cdn.pixabay.com/photo/2018/06/25/19/34/love-3497782_1280.png"
+  },
+  {
+    "date": "2025-08-23",
+    "content": "Tu îmi dai puterea de a merge înainte. Dragostea ta e sprijinul meu. Tu esti totul pentru mine. Tu esti suportul meu mereu!",
+    "image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/heart-shaped-inflatable-balloon-floating-free-image.jpeg?w=600&quality=80"
+  },
+  {
+    "date": "2025-08-24",
+    "content": "Fiecare mesaj de la tine îmi aduce inima mai aproape de a ta. Ești tot ce mi-am dorit vreodata.",
+    "image": "https://w0.peakpx.com/wallpaper/371/312/HD-wallpaper-cuteness-cute-love-cute-love-cartoons-cute-cartoon.jpg"
+  },
+  {
+    "date": "2025-08-25",
+    "content": "Zâmbetul tău e raza mea de soare chiar și în cele mai întunecate zile.",
+    "image": "https://w0.peakpx.com/wallpaper/260/730/HD-wallpaper-couple-in-love-romantic-dark-i-love-you.jpg"
+  },
+  {
+    "date": "2025-08-26",
+    "content": "Chiar și când nu ești lângă mine, te simt în fiecare bătaie a inimii mele.",
+    "image": "https://t3.ftcdn.net/jpg/15/00/92/42/360_F_1500924231_xOZOzJHRX8KD3IghysoV4wguJKwFWtkZ.jpg"
+  },
+  {
+    "date": "2025-08-27",
+    "content": "Visez la ziua în care mă voi trezi lângă tine, în fiecare dimineață, pentru totdeauna.",
+    "image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/hearts-love-wallpaper-free-image.jpeg?w=600&quality=80"
+  },
+  {
+    "date": "2025-08-28",
+    "content": "Dragostea ta m-a învățat să fiu mai bun, mai blând și mai răbdător. Mulțumesc că ești tu.",
+    "image": "https://wallpapers.com/images/hd/love-hearts-on-red-silk-12bbt0wcyby2horu.jpg"
+  },
+  {
+    "date": "2025-08-29",
+    "content": "Ești cântecul preferat al sufletului meu, sunetul pe care l-aș asculta la nesfârșit.",
+    "image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/love-in-the-city-free-image.jpeg?w=600&quality=80"
+  },
+  {
+    "date": "2025-08-30",
+    "content": "Îți simt lipsa ca pe o tăcere în mijlocul unei melodii. Tu ești armonia mea. Tu esti piesa lipsă din inima mea.",
+    "image": "https://img.freepik.com/premium-vector/cute-couple-love-kissing-with-heart_76844-1888.jpg?w=360"
+  },
+  {
+    "date": "2025-08-31",
+    "content": "Îmi umpli gândurile, visele, viața. Tu ești începutul și sfârșitul zilelor mele.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThW6Lh55bmv7_2VhtL7zaoT0bx4HAWiy92lg&s"
+  }
 ]
