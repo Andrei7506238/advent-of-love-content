@@ -1,3 +1,307 @@
 [
-
+    {
+        "date": "2026-05-01",
+        "content": "Bun venit, luna mai! Florile înfloresc, păsărelele cântă și inima mea te caută în fiecare clipă, puiule mic. Te iubesc la fel de mult ca în prima zi și mult mai mult de atât!",
+        "image": "https://images.pexels.com/photos/1076607/pexels-photo-1076607.jpeg"
+    },
+    {
+        "date": "2026-05-02",
+        "content": "Ești razele de soare care îmi încălzesc sufletul în fiecare dimineață. Te iubesc infinit, bebe meu mic și perfect!",
+        "image": "https://images.pexels.com/photos/585017/pexels-photo-585017.jpeg"
+    },
+    {
+        "date": "2026-05-03",
+        "content": "Dragostea mea, îmi imaginez zi de zi cum va fi viața noastră împreună și de fiecare dată îmi cresc și mai mult fluturii în stomac!",
+        "image": "https://images.pexels.com/photos/3847636/pexels-photo-3847636.jpeg"
+    },
+    {
+        "date": "2026-05-04",
+        "content": "Puiule mic, tu ești tot ce am mai bun, tot ce am mai prețios și tot ce îmi doresc pentru eternitate!",
+        "image": "https://images.pexels.com/photos/7208451/pexels-photo-7208451.jpeg"
+    },
+    {
+        "date": "2026-05-05",
+        "content": "Îți trimit tot dorul meu, bebe meu mic, să îl simți ca o îmbrățișare caldă, oriunde ai fi tu astăzi!",
+        "image": "https://images.pexels.com/photos/11089051/pexels-photo-11089051.jpeg"
+    },
+    {
+        "date": "2026-05-06",
+        "content": "Dragostea mea, fiecare zi pe care o trăiesc are sens pentru că te știu a mea și pentru că te iubesc din tot sufletul!",
+        "image": "https://images.pexels.com/photos/532414/pexels-photo-532414.jpeg"
+    },
+    {
+        "date": "2026-05-07",
+        "content": "Puiule mic, ești minunea mea de zi cu zi, cea care îmi face inima să bată mai repede și viața să aibă culoare!",
+        "image": "https://images.pexels.com/photos/3693861/pexels-photo-3693861.jpeg"
+    },
+    {
+        "date": "2026-05-08",
+        "content": "Bebe meu mic, când mă gândesc la tine, tot universul meu se oprește și nu mai există decât tu, iubirea mea!",
+        "image": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg"
+    },
+    {
+        "date": "2026-05-09",
+        "content": "Dragostea mea, îți mulțumesc pentru fiecare mesaj, fiecare râs, fiecare moment care ne aparține doar nouă!",
+        "image": "https://images.pexels.com/photos/704748/pexels-photo-704748.jpeg"
+    },
+    {
+        "date": "2026-05-10",
+        "content": "Puiule mic, ești cea mai frumoasă surpriză pe care viața mi-a dat-o. Te iubesc mai mult decât știi!",
+        "image": "https://images.pexels.com/photos/1174958/pexels-photo-1174958.jpeg"
+    },
+    {
+        "date": "2026-05-11",
+        "content": "Mi-e dor de tine, bebe mic, un dor dulce care îmi umple sufletul de tine și mă face să te iubesc și mai mult!",
+        "image": "https://images.pexels.com/photos/5713594/pexels-photo-5713594.jpeg"
+    },
+    {
+        "date": "2026-05-12",
+        "content": "Dragostea mea, suntem la mijlocul lui mai și eu simt că te iubesc mai mult ca oricând. Ești totul meu!",
+        "image": "https://images.pexels.com/photos/1104365/pexels-photo-1104365.jpeg"
+    },
+    {
+        "date": "2026-05-13",
+        "content": "Puiule mic, tu ești motivul pentru care cred că magia există și că cel mai bun lucru care mi s-a întâmplat ești tu!",
+        "image": "https://images.pexels.com/photos/6765587/pexels-photo-6765587.jpeg"
+    },
+    {
+        "date": "2026-05-14",
+        "content": "Bebe meu mic, vreau să știi că ești admirată, adorată și iubită în fiecare secundă din fiecare zi!",
+        "image": "https://images.pexels.com/photos/320266/pexels-photo-320266.jpeg"
+    },
+    {
+        "date": "2026-05-15",
+        "content": "Dragostea mea, la jumătatea lui mai, iubirea mea pentru tine e mai vie, mai puternică și mai profundă ca niciodată!",
+        "image": "https://images.pexels.com/photos/949586/pexels-photo-949586.jpeg"
+    },
+    {
+        "date": "2026-05-16",
+        "content": "Puiule mic, în ochii tăi am găsit casa pe care am căutat-o toată viața. Te iubesc infinit!",
+        "image": "https://images.pexels.com/photos/6708774/pexels-photo-6708774.jpeg"
+    },
+    {
+        "date": "2026-05-17",
+        "content": "Bebe mic, tu ești parfumul florilor de mai din sufletul meu, blândețea care mă face fericit în fiecare zi!",
+        "image": "https://images.pexels.com/photos/29762120/pexels-photo-29762120.jpeg"
+    },
+    {
+        "date": "2026-05-18",
+        "content": "Dragostea mea, visez la vara noastră, la momentele pe care le vom trăi împreună, la amintirile pe care le vom crea!",
+        "image": "https://images.pexels.com/photos/3874479/pexels-photo-3874479.jpeg"
+    },
+    {
+        "date": "2026-05-19",
+        "content": "Puiule mic, nu există cuvinte suficient de mari să descrie cât de mult te iubesc. Tu ești totul meu!",
+        "image": "https://images.pexels.com/photos/776635/pexels-photo-776635.jpeg"
+    },
+    {
+        "date": "2026-05-20",
+        "content": "Bebe meu mic, ești cea mai bună versiune a fericirii mele. Te iubesc din tot sufletul!",
+        "image": "https://images.pexels.com/photos/887349/pexels-photo-887349.jpeg"
+    },
+    {
+        "date": "2026-05-21",
+        "content": "Dragostea mea, fiecare apus de soare din mai îmi amintește că tu contezi cel mai mult pe lumea asta!",
+        "image": "https://images.pexels.com/photos/14787268/pexels-photo-14787268.jpeg"
+    },
+    {
+        "date": "2026-05-22",
+        "content": "Puiule mic, mai mult decât stelele, mai mult decât soarele, te iubesc pe tine, lumina mea!",
+        "image": "https://images.pexels.com/photos/6709117/pexels-photo-6709117.jpeg"
+    },
+    {
+        "date": "2026-05-23",
+        "content": "Bebe mic, tot ce fac, gândesc și visez are amprenta ta, iubirea mea fără de margini!",
+        "image": "https://images.pexels.com/photos/1243714/pexels-photo-1243714.jpeg"
+    },
+    {
+        "date": "2026-05-24",
+        "content": "Dragostea mea, tu ești poezia vieții mele, cea pe care o rescriu în fiecare zi cu mai mult drag!",
+        "image": "https://images.pexels.com/photos/15547482/pexels-photo-15547482.jpeg"
+    },
+    {
+        "date": "2026-05-25",
+        "content": "Puiule mic, îți promit că voi fi mereu persoana care te susține, te admiră și te iubește necondiționat!",
+        "image": "https://images.pexels.com/photos/31884813/pexels-photo-31884813.jpeg"
+    },
+    {
+        "date": "2026-05-26",
+        "content": "Bebe mic, gândul la tine e primul dimineața și ultimul seara, pentru că tu ești inima mea!",
+        "image": "https://images.pexels.com/photos/31884819/pexels-photo-31884819.jpeg"
+    },
+    {
+        "date": "2026-05-27",
+        "content": "Dragostea mea, mai mult decât orice prag pe care l-am depășit, tu ești dovada că merită să iubești cu totul!",
+        "image": "https://images.pexels.com/photos/2072185/pexels-photo-2072185.jpeg"
+    },
+    {
+        "date": "2026-05-28",
+        "content": "Puiule mic, se apropie vara și cu ea și momentul în care te voi strânge în brațe. Abia aștept!!!",
+        "image": "https://images.pexels.com/photos/788944/pexels-photo-788944.jpeg"
+    },
+    {
+        "date": "2026-05-29",
+        "content": "Bebe mic, tu ești vara mea în orice anotimp, căldura mea, bucuria mea, tot universul meu!",
+        "image": "https://images.pexels.com/photos/36233379/pexels-photo-36233379.jpeg"
+    },
+    {
+        "date": "2026-05-30",
+        "content": "Dragostea mea, mai rămâne puțin și luna mai se termină, dar iubirea mea pentru tine nu se termină niciodată!",
+        "image": "https://images.pexels.com/photos/6652300/pexels-photo-6652300.jpeg"
+    },
+    {
+        "date": "2026-05-31",
+        "content": "Puiule mic, se încheie luna mai și cu ea mai facem un pas spre vara pe care o așteptăm amândoi. Te iubesc cel mai mult!",
+        "image": "https://images.pexels.com/photos/32093662/pexels-photo-32093662.jpeg"
+    },
+    {
+        "date": "2026-06-01",
+        "content": "Bun venit, iunie! Bun venit la luna noastră! Bebe mic, luna asta e specială și o vom face de neuitat. Te iubesc enorm!",
+        "image": "https://images.pexels.com/photos/18175449/pexels-photo-18175449.jpeg"
+    },
+    {
+        "date": "2026-06-02",
+        "content": "Dragostea mea, iunie a venit cu tot dorul meu pentru tine. Fiecare zi din această lună e un cadou pe care îl deschid cu nerăbdare!",
+        "image": "https://images.pexels.com/photos/29616925/pexels-photo-29616925.jpeg"
+    },
+    {
+        "date": "2026-06-03",
+        "content": "Puiule mic, simți și tu cum luna aceasta e altfel? E plină de magie, de noi și de tot ce am construit împreună!",
+        "image": "https://images.pexels.com/photos/34962810/pexels-photo-34962810.jpeg"
+    },
+    {
+        "date": "2026-06-04",
+        "content": "Bebe mic, nu știu dacă poți simți prin ecran cât de tare te iubesc, dar încerc să ți-o arăt în fiecare zi!",
+        "image": "https://images.pexels.com/photos/11487325/pexels-photo-11487325.jpeg"
+    },
+    {
+        "date": "2026-06-05",
+        "content": "Dragostea mea, cu fiecare zi care trece, inima mea te caută mai tare și dorul de tine crește frumos și dulce!",
+        "image": "https://images.pexels.com/photos/14698867/pexels-photo-14698867.jpeg"
+    },
+    {
+        "date": "2026-06-06",
+        "content": "Puiule mic, ești tot ce am mai prețios. Curând ne vom vedea și inima mea nu mai are stare de fericire!",
+        "image": "https://images.pexels.com/photos/7437727/pexels-photo-7437727.jpeg"
+    },
+    {
+        "date": "2026-06-07",
+        "content": "Dragostea mea, mâine te văd! Nu mai pot de emoție și de dor. Abia aștept să te strâng în brațe și să nu-ți mai dau drumul!!!",
+        "image": "https://images.pexels.com/photos/3612885/pexels-photo-3612885.jpeg"
+    },
+    {
+        "date": "2026-06-08",
+        "content": "AZI TE VĂD, BEBE MIC!!! Inima mea a zburat toată ziua asta spre tine, dorind mai mult decât orice momentul acesta în care suntem în sfârșit împreună. Nu există cadou mai mare decât să te am lângă mine, să te pot strânge în brațe și să îți spun în față cât de mult te iubesc. Azi nu mai există distanță, nu mai există dor, există doar noi și toată iubirea asta imensă care ne leagă. Te iubesc la nebunie, puiule mic!!!",
+        "image": "https://images.pexels.com/photos/36115408/pexels-photo-36115408.jpeg"
+    },
+    {
+        "date": "2026-06-09",
+        "content": "Azi ești la absolvirea mea, puiule mic, și faptul că ești acolo face totul perfect. Ai ales să fii parte din cel mai important moment al acestui an și asta înseamnă mai mult decât știi. Ești mândria mea, sprijinul meu de neclintit și iubirea vieții mele. Toate eforturile, toate nopțile, tot drumul parcurs valorează infinit mai mult știind că tu ești acolo să serbezi cu mine. Îți mulțumesc că exiști, că mă iubești și că ești mereu în colțul meu. Te iubesc cel mai mult, pentru totdeauna!!!",
+        "image": "https://images.pexels.com/photos/13760598/pexels-photo-13760598.jpeg"
+    },
+    {
+        "date": "2026-06-10",
+        "content": "Bebe meu mic, ziua de ieri va rămâne pentru totdeauna în inima mea. Absolvirea mea e specială nu doar pentru ce am realizat, ci pentru că tu ai fost acolo. Te iubesc infinit!",
+        "image": "https://images.pexels.com/photos/14827359/pexels-photo-14827359.jpeg"
+    },
+    {
+        "date": "2026-06-11",
+        "content": "Dragostea mea, mâine facem 3 ani împreună! Trei ani de iubire, de creștere, de vis și de aventură trăite cu tine. Abia aștept să serbăm împreună!",
+        "image": "https://images.pexels.com/photos/30348725/pexels-photo-30348725.jpeg"
+    },
+    {
+        "date": "2026-06-12",
+        "content": "Bebe meu mic, azi facem trei ani împreună și nu știu cum să cuprind în cuvinte tot ce simt în acest moment. Trei ani în care ai fost liniștea mea în haos, lumina mea în întuneric și puterea mea când credeam că nu mai pot. Trei ani în care am descoperit că iubirea adevărată nu e ca în filme, ci e cu mult mai frumoasă, mai caldă, mai reală și mai profundă decât orice. Îmi amintesc de emoția primei noastre zile, de nervozitatea aceea dulce, de tot ce am simțit când ți-am văzut zâmbetul și mi-am dat seama că vreau să îl văd în fiecare dimineață pentru restul vieții mele. Și azi, după trei ani, zâmbetul tău mă topește la fel de tare, poate chiar mai tare, pentru că acum știu câtă bunătate, câtă inteligență și câtă iubire se ascunde în spatele lui. Am trecut împreună prin momente grele și prin momente de fericire pură, prin distanță și prin apropierea care face totul să merite. Prin lacrimi și prin râsete care au răsunat mai frumos decât orice muzică. Și în tot acest timp ai ales să rămâi, să iubești, să construiești cu mine, iar asta valorează mai mult decât poți imagina. Tu ești femeia pe care o visam fără să știu că o visez. Ești înțeleaptă, harnică, frumoasă și bună la suflet. Ești partenera mea de viață, cea cu care vreau să îmbătrânesc frumos, să construiesc o familie și să trăiesc fiecare anotimp ținându-ne de mână. La mulți ani nouă, puiule mic! Îți promit că te voi alege în fiecare zi, că voi avea grijă de inima ta și că voi fi bărbatul pe care îl meriți. Te iubesc mai mult decât orice cuvânt poate exprima, mai mult decât stelele, mai mult decât infinitul. Ești totul meu, azi, mâine și pentru eternitate!!!",
+        "image": "https://images.pexels.com/photos/34008663/pexels-photo-34008663.jpeg"
+    },
+    {
+        "date": "2026-06-13",
+        "content": "Bebe meu mic, ieri am celebrat 3 ani de iubire și simt că abia am început să descoperim ce suntem unul pentru celălalt. Te iubesc mai mult ca niciodată!",
+        "image": "https://images.pexels.com/photos/30772182/pexels-photo-30772182.jpeg"
+    },
+    {
+        "date": "2026-06-14",
+        "content": "Dragostea mea, fiecare zi cu tine e o pagină nouă dintr-o poveste de dragoste fără sfârșit!",
+        "image": "https://images.pexels.com/photos/15021788/pexels-photo-15021788.jpeg"
+    },
+    {
+        "date": "2026-06-15",
+        "content": "Puiule mic, la mijlocul lui iunie, te iubesc de parcă e prima dată, cu aceeași emoție și același tremur în voce!",
+        "image": "https://images.pexels.com/photos/17132144/pexels-photo-17132144.jpeg"
+    },
+    {
+        "date": "2026-06-16",
+        "content": "Bebe mic, tu ești lumina verii mele, căldura care îmi face fiecare zi mai frumoasă!",
+        "image": "https://images.pexels.com/photos/30616137/pexels-photo-30616137.jpeg"
+    },
+    {
+        "date": "2026-06-17",
+        "content": "Dragostea mea, cu tine fiecare zi e o sărbătoare a iubirii noastre. Te iubesc la infinit!",
+        "image": "https://images.pexels.com/photos/636246/pexels-photo-636246.jpeg"
+    },
+    {
+        "date": "2026-06-18",
+        "content": "Puiule mic, visez la vara aceasta cu tine, la toate momentele frumoase pe care le vom trăi împreună!",
+        "image": "https://images.pexels.com/photos/291629/pexels-photo-291629.jpeg"
+    },
+    {
+        "date": "2026-06-19",
+        "content": "Bebe mic, ești culorile verii mele, tot ce e viu și frumos și cald în lumea mea!",
+        "image": "https://images.pexels.com/photos/35020638/pexels-photo-35020638.jpeg"
+    },
+    {
+        "date": "2026-06-20",
+        "content": "Dragostea mea, solstițiul de vară a sosit și cu el amintirea că tu ești cea mai caldă lumină din viața mea!",
+        "image": "https://images.pexels.com/photos/19918207/pexels-photo-19918207.jpeg"
+    },
+    {
+        "date": "2026-06-21",
+        "content": "Puiule mic, vara asta e a noastră și eu vreau să o umplem de amintiri frumoase și de iubire!",
+        "image": "https://images.pexels.com/photos/2531611/pexels-photo-2531611.jpeg"
+    },
+    {
+        "date": "2026-06-22",
+        "content": "Bebe mic, te iubesc cu o iubire caldă ca vara, profundă ca oceanul și nesfârșită ca cerul!",
+        "image": "https://images.pexels.com/photos/7485787/pexels-photo-7485787.jpeg"
+    },
+    {
+        "date": "2026-06-23",
+        "content": "Dragostea mea, în fiecare seară de vară, mă gândesc la tine și la cât de mult contezi pentru mine!",
+        "image": "https://images.pexels.com/photos/712520/pexels-photo-712520.jpeg"
+    },
+    {
+        "date": "2026-06-24",
+        "content": "Puiule mic, tu ești soarele verii mele și al întregii mele vieți. Te iubesc cel mai mult din lume!",
+        "image": "https://images.pexels.com/photos/8347258/pexels-photo-8347258.jpeg"
+    },
+    {
+        "date": "2026-06-25",
+        "content": "Bebe mic, cu tine fiecare moment capătă sens și fiecare zi are valoare. Te iubesc infinit!",
+        "image": "https://images.pexels.com/photos/30592654/pexels-photo-30592654.jpeg"
+    },
+    {
+        "date": "2026-06-26",
+        "content": "Dragostea mea, îți promit că vara asta va fi una de neuitat, plină de noi, de iubire și de fericire!",
+        "image": "https://images.pexels.com/photos/11166361/pexels-photo-11166361.jpeg"
+    },
+    {
+        "date": "2026-06-27",
+        "content": "Puiule mic, vreau să știi că oriunde aș fi, inima mea e mereu cu tine, lângă tine, pentru tine!",
+        "image": "https://images.pexels.com/photos/12532676/pexels-photo-12532676.jpeg"
+    },
+    {
+        "date": "2026-06-28",
+        "content": "Bebe mic, luna aceasta a fost specială în atâtea feluri. Mulțumesc că ești a mea și că mă iubești!",
+        "image": "https://images.pexels.com/photos/880843/pexels-photo-880843.jpeg"
+    },
+    {
+        "date": "2026-06-29",
+        "content": "Dragostea mea, mâine se termină iunie, dar noi continuăm să iubim și să creștem împreună, zi de zi, la infinit!",
+        "image": "https://images.pexels.com/photos/35466807/pexels-photo-35466807.jpeg"
+    },
+    {
+        "date": "2026-06-30",
+        "content": "Puiule mic, se încheie luna noastră specială, dar iubirea noastră nu se termină niciodată. Te iubesc cel mai mult și te aleg în fiecare zi!",
+        "image": "https://images.pexels.com/photos/6765583/pexels-photo-6765583.jpeg"
+    }
 ]
